@@ -49,6 +49,7 @@ Grottstigen.
 Tärnättholmarna.
 * Max `1.3 km`: Gå längs leden Tärnättholmarna. Det finns en raststuga strax
 innan landbron till holmen, och en strax efter.
+
 **Totalt**: Ca. `10 km`
 
 ### Dag 2
@@ -63,6 +64,7 @@ hela vägen till norra ingången så förmodligen är den faktiska distansen nä
 Tärnättsundet vid kusten eller Tärnättvattnen som vi passerade dag 1 och
 även dag 2 på Sommarleden/Höga Kustenleden och som ligger på väg tillbaka
 till entré väst.
+
 **Totalt**: Ca. `15 km`
 
 ### Dag 3
@@ -71,7 +73,9 @@ närmsta övernattningsstugan är Skrattabbortjärn, ca. 2 km från entrén.
 Längden på vandringen beror på var vi bestämmer oss att övernatta.
 * Fritt: Ta någon av lederna som går söderut från Skrattaborrtjärn om ork
 finns. Det är inte ringleder, så man måste gå samma väg tillbaka.
+
 **Totalt**: Minst `ca. 5 km` men förmodligen närmare `10 km`.
+
 ### Dag 4
 * Ca. `2 km`: Gå tillbaka till entré väst. Tänk på att gå tidigt så att
 bussen hinns med. Det går ingen på många timmar efter 09:08.
