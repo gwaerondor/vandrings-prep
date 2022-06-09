@@ -13,29 +13,22 @@
 
 ## Att ha med
 ### Gemensamt
-#### Kastrull
-Eller annan behållare som går att koka vatten i
-#### Toapapper
-En rulle räcker förmodligen till oss båda i 2.5 dagar
-#### Tändare, tändstickor eller tändstål
-#### Plåster, mot skoskav eller för mindre skador
+* Kastrull, eller annan behållare som går att koka vatten i
+* Toapapper, en rulle räcker förmodligen till oss båda i 2.5 dagar
+* Tändare, tändstickor eller tändstål
+* Plåster, mot skoskav eller för mindre skador
 ### Personligt
-#### Vattenflaska/flaskor
-#### Mat
-Antingen mat som går att äta "torr" som energibars, eller mat som kan grillas
+* Vattenflaska/flaskor
+* Mat, antingen som går att äta "torr" som energibars, eller som kan grillas
 eller [frystorkad friluftsmat som man bara tillsätter vatten till](https://www.naturkompaniet.se/utrustning/friluftsmat-och-energibars/frystorkad-mat/).
-#### Sovsäck
-Ha även med något som går att använda som kudde, t.ex. örngott som kan
-fyllas med kläder. Om det är varmt kanske det räcker med ett lakan eller
+* Sovsäck. Ha även med något som går att använda som kudde, t.ex. örngott som
+kan fyllas med kläder. Om det är varmt kanske det räcker med ett lakan eller
 en handduk istället för sovsäck.
-#### Kläder
-Kläder för tre dagar, beroende på väder. Extra strumpor och regnponcho, t.ex.
-#### Handduk och badkläder
-Så att vi kan hålla oss rena
-#### Batteripack till mobiltelefon
-#### Solglasögon
-#### Solskydd
-Sun lotion, solhatt
+* Kläder, för tre dagar. Beroende på väder. Extra strumpor och regnponcho, t.ex.
+* Handduk och badkläder
+* Batteripack till mobiltelefon
+* Solglasögon
+* Solskydd som sun lotion eller solhatt
 
 
 
