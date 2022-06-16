@@ -12,26 +12,48 @@
 * 14:06 -> 17:38: SJ tåg 579, Sundsvall C -> Stockholm C
 
 ## Att ha med
+Bra saker att ha med, som en kom ihåg-lista. Använd inte detta som packlista,
+packa bara det som behövs. Mindre packning = bättre.
+
 ### Gemensamt
 * Kastrull, eller annan behållare som går att koka vatten i
-* Toapapper, en rulle räcker förmodligen till oss båda i 2.5 dagar
+* Toapapper, tillräckligt för 2.5 dagar
 * Tändare, tändstickor eller tändstål
 * Plåster, mot skoskav eller för mindre skador
+* Första hjälpen-kit
+* Kniv, sax eller liknande
+
 ### Personligt
-* Vattenflaska/flaskor
-* Mat, antingen som går att äta "torr" som energibars, eller som kan grillas
-eller [frystorkad friluftsmat som man bara tillsätter vatten till](https://www.naturkompaniet.se/utrustning/friluftsmat-och-energibars/frystorkad-mat/).
+* Vattenflaska/flaskor. Vattnet kommer kokas, så ta med thermos till te
+eller någonting som *inte* håller värmen om normaltempererat vatten föredras.
+* Karbinhake, om det behövs till exempel för att hänga vattenflaskor eller annat
+utanpå ryggsäcken. Förmodligen finns det flaskhållare på ryggsäcken så detta
+kommer nog inte behövas, men kolla upp om det behövs innan avfärd.
+* Mat, antingen som går att äta "torr" som energibars eller Wasa Sandwich,
+något som kan grillas, eller frystorkad friluftsmat som man bara tillsätter
+vatten till.
+[(Naturkompaniet](https://www.naturkompaniet.se/utrustning/friluftsmat-och-energibars/frystorkad-mat/),
+[Decathlon)](https://www.decathlon.se/5159-frystorkad-mat)
+* Campingbestick, eller engångsbestick
 * Sovsäck. Ha även med något som går att använda som kudde, t.ex. örngott som
 kan fyllas med kläder. Om det är varmt kanske det räcker med ett lakan eller
 en handduk istället för sovsäck.
 * Kläder, för tre dagar. Beroende på väder. Extra strumpor och regnponcho, t.ex.
 * Handduk och badkläder
+* Duschkräm
+* Tandborste och tandkräm
 * Batteripack till mobiltelefon
 * Solglasögon
 * Solskydd som sun lotion eller solhatt
+* Skydd mot myggor och fästingar
+* Regnskydd för ryggsäck
+* Påse för sopor, kanske ziplock så att dålig lukt kan stängas in om det behövs.
+* Ficklampa eller pannlampa
+* Böcker, korsord, spel och annat att roa sig med på kvällen.
 
 ## Vandringen
-Preliminär plan för vandring.
+Preliminär plan för vandring. Det viktiga är att vi kan ta det lugnt och göra
+lite vad vi vill, så detta är endast nån slags riktlinje.
 
 ### Dag 1
 * Ankomst strax efter lunch, till entré V.
