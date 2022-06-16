@@ -32,8 +32,8 @@ kommer nog inte behövas, men kolla upp om det behövs innan avfärd.
 * Mat, antingen som går att äta "torr" som energibars eller Wasa Sandwich,
 något som kan grillas, eller frystorkad friluftsmat som man bara tillsätter
 vatten till.
-[(Naturkompaniet](https://www.naturkompaniet.se/utrustning/friluftsmat-och-energibars/frystorkad-mat/),
-[Decathlon)](https://www.decathlon.se/5159-frystorkad-mat)
+([Naturkompaniet](https://www.naturkompaniet.se/utrustning/friluftsmat-och-energibars/frystorkad-mat/),
+[Decathlon](https://www.decathlon.se/5159-frystorkad-mat))
 * Campingbestick, eller engångsbestick
 * Sovsäck. Ha även med något som går att använda som kudde, t.ex. örngott som
 kan fyllas med kläder. Om det är varmt kanske det räcker med ett lakan eller
